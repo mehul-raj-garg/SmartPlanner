@@ -54,7 +54,7 @@ JavaScript (Vanilla) → Logic & localStorage
 
 📸 Screenshot (Preview Idea)
 
-You can include a screenshot here for better presentation:
+
 
 Work   | Study   | Personal
 -------|---------|---------
